@@ -7,10 +7,10 @@
 * Chapter 1
 	* [Exercise 1]()
 * Chapter 2
-	* [Exercise 1]()
-	* [Exercise 2]()
-	* [Exercise 3]()
-	* [Exercise 4]()
+	* [Exercise 1](https://github.com/kudraem/study-c-primer-plus-book-exercises/tree/master/chapter-2/2-1)
+	* [Exercise 2](https://github.com/kudraem/study-c-primer-plus-book-exercises/tree/master/chapter-2/2-2)
+	* [Exercise 3](https://github.com/kudraem/study-c-primer-plus-book-exercises/tree/master/chapter-2/2-3)
+	* [Exercise 4](https://github.com/kudraem/study-c-primer-plus-book-exercises/tree/master/chapter-2/2-4)
 	* [Exercise 5]()
 	* [Exercise 6]()
 	* [Exercise 7]()
