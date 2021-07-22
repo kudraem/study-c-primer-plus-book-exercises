@@ -16,6 +16,7 @@
 	* [Exercise 7](https://github.com/kudraem/study-c-primer-plus-book-exercises/tree/master/chapter-2/2-7)
 	* [Exercise 8](https://github.com/kudraem/study-c-primer-plus-book-exercises/tree/master/chapter-2/2-8)
 * Chapter 3
+	* [Exercise 3](https://github.com/kudraem/study-c-primer-plus-book-exercises/tree/master/chapter-3/3-3)
 * Chapter 4
 * Chapter 5
 * Chapter 6
